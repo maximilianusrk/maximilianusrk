@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Nmap, Burp Suite, Snort<br>👨‍💻 My Portfolio is available at https://bit.ly/MaximlianusRaymond<br>📫 How to reach me raymond.max.rm@gmail.com
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
 ## 🌐 Socials:
