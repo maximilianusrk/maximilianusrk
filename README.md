@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m a Cyber Security student at <a href="https://binus.ac.id/">Bina Nusantara University</a><br>👨‍💻 My Portfolio is available at https://bit.ly/MaximlianusRaymond <br>📫 How to reach me raymond.max.rm@gmail.com
+🌱 I’m a Cyber Security student at <a href="https://binus.ac.id/">Bina Nusantara University</a><br>👨‍💻 My Portfolio is available at https://bit.ly/maximilianusrk <br>📫 How to reach me raymond.max.rm@gmail.com
 <img align="right" alt="Coding" margin="10px"  width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
